@@ -1,0 +1,47 @@
+Item #,Category,Value / Part,Package / Footprint,Qty,Reference Designators,Description,Suggested Manufacturer
+1,Microcontroller,ESP32-S3-WROOM-1,ESP32-S3-WROOM-1,1,U1,"ESP32-S3 Dual-Core Xtensa LX7 @ 240MHz, 2.4GHz Wi-Fi 4 + BLE 5.0, 8MB Flash",Espressif
+2,Sensors,BMP280,Bosch_LGA-8_2x2.5mm_P0.65mm_ClockwisePinNumbering,1,U6,BMP280 Digital High-Precision Barometric Altimeter Pressure Sensor,Bosch Sensortec
+3,Sensors,ICM-42688-P,LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,1,U2,ICM-42688-P / BMI270 6-Axis MotionTracking IMU (Gyroscope + Accelerometer),TDK InvenSense / Bosch
+4,Power & Battery,3.7V_LIPO,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,1,J1,JST-PH 2.0mm 2-Pin Horizontal Male Battery Connector (1S LiPo),JST
+5,Power & Battery,AP2112K-3.3,SOT-23-5,1,U5,AP2112K-3.3 600mA Low Dropout Linear Voltage Regulator (55mV dropout @ 200mA),Diodes Inc
+6,Power & Battery,PWR_SW,SW_SPDT_PCM12,1,SW3,PCM12 SPDT Miniature Slide Switch (Main Power ON/OFF),C&K Components
+7,Power & Battery,TP4056,SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm,1,U4,TP4056 1A Standalone Linear Li-Ion Battery Charger with Thermal Protection,NanJing Top Power
+8,Power & Battery,USB_C_16P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,J2,USB Type-C 16-Pin Receptacle (5V Power Input & Native USB/JTAG Data),Korean HRO / Amphenol
+9,Motor Drivers,AO3400A,SOT-23,4,"Q1, Q2, Q3, Q4","AO3400A N-Channel MOSFET (30V, 5.7A, RDS(on)=30mΩ @ 3.3V VGS)",Alpha & Omega
+10,Motor Drivers,B5819W,D_SOD-123,4,"D3, D4, D5, D6","B5819W Schottky Barrier Rectifier Diode (40V, 1A, VF=0.38V @ 1A flyback clamp)",MCC / Diodes Inc
+11,Motor Drivers,M1_MOTOR,PinHeader_1x02_P1.27mm_Vertical,1,J4,1.27mm / 2-Pin Micro Header Motor Connectors (M1 - M4),Generic
+12,Motor Drivers,M2_MOTOR,PinHeader_1x02_P1.27mm_Vertical,1,J5,1.27mm / 2-Pin Micro Header Motor Connectors (M1 - M4),Generic
+13,Motor Drivers,M3_MOTOR,PinHeader_1x02_P1.27mm_Vertical,1,J6,1.27mm / 2-Pin Micro Header Motor Connectors (M1 - M4),Generic
+14,Motor Drivers,M4_MOTOR,PinHeader_1x02_P1.27mm_Vertical,1,J7,1.27mm / 2-Pin Micro Header Motor Connectors (M1 - M4),Generic
+15,Audio Feedback,AO3400A,SOT-23,1,Q5,AO3400A N-Channel MOSFET Buzzer Low-Side Switch Driver,Alpha & Omega
+16,Audio Feedback,B5819W,D_SOD-123,1,D9,B5819W Schottky Diode Buzzer Inductive Clamp,MCC
+17,Audio Feedback,BUZZER_ACTIVE,Buzzer_12x9.5RM7.6,1,BZ1,"MLT-8530 / 12mm Active Piezo Buzzer (90dB SPL @ 2.7kHz, 3.3V)",Murata / PUI Audio
+18,Lighting & Status,AO3400A,SOT-23,1,Q6,AO3400A N-Channel MOSFET LED Ground Switch Driver,Alpha & Omega
+19,Lighting & Status,BLUE_STATUS,LED_0603_1608Metric,1,D8,0603 SMD Blue LED - ESP32-S3 Flight Controller Status Indicator,Everlight
+20,Lighting & Status,GRN_DONE,LED_0603_1608Metric,1,D2,0603 SMD LED (GRN DONE) - Battery Charger State Indicator,Everlight
+21,Lighting & Status,RED_CHRG,LED_0603_1608Metric,1,D1,0603 SMD LED (RED CHRG) - Battery Charger State Indicator,Everlight
+22,Lighting & Status,RED_RL,LED_0603_1608Metric,1,D12,0603 SMD Red LED - Rear Taillight Navigation LEDs,Everlight
+23,Lighting & Status,RED_RR,LED_0603_1608Metric,1,D13,0603 SMD Red LED - Rear Taillight Navigation LEDs,Everlight
+24,Lighting & Status,WHITE_FL,LED_0603_1608Metric,1,D10,0603 SMD White LED - Front Headlight Navigation LEDs,Everlight
+25,Lighting & Status,WHITE_FR,LED_0603_1608Metric,1,D11,0603 SMD White LED - Front Headlight Navigation LEDs,Everlight
+26,Lighting & Status,WS2812B_RGB,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,1,D7,WS2812B Addressable 5050/2020 Intelligent RGB Status LED,Worldsemi
+27,Control & Programming,BOOT,SW_SPST_PTS810,1,SW2,PTS810 Miniature Push-Button Tactile Switch (BOOT),C&K Components
+28,Control & Programming,RESET,SW_SPST_PTS810,1,SW1,PTS810 Miniature Push-Button Tactile Switch (RESET),C&K Components
+29,Expansion & Radio,GPS_MODULE,PinHeader_1x04_P1.27mm_Vertical,1,J8,Micro Pin Header Connector (GPS MODULE),Generic
+30,Expansion & Radio,I2C_COMPASS,PinHeader_1x02_P1.27mm_Vertical,1,J9,Micro Pin Header Connector (I2C COMPASS),Generic
+31,Expansion & Radio,RC_RECEIVER,PinHeader_1x04_P2.54mm_Vertical,1,J3,"4-Pin 2.54mm Receiver Connector Header (VCC, GND, TX, RX)",Generic
+32,Passives - Capacitors,100nF,C_0603_1608Metric,9,"C2, C6, C13, C14, C15, C16, C25, C26, C27",100nF (0.1µF) 0603 X7R 16V Decoupling / Snubber Capacitor,Yageo / Murata
+33,Passives - Capacitors,100uF,CP_Elec_5x5.3,1,C24,100µF Low-ESR Bulk Filter Electrolytic / Polymer Capacitor (16V),Panasonic
+34,Passives - Capacitors,10uF,C_0805_2012Metric,3,"C1, C9, C10",10µF 0805 X5R 10V Ceramic Decoupling Capacitor,Murata / Samsung
+35,Passives - Capacitors,1uF,C_0603_1608Metric,2,"C3, C11",1.0µF 0603 X5R 10V Ceramic Capacitor (EN Reset RC / Sensor),Murata
+36,Passives - Capacitors,2.2uF,C_0603_1608Metric,2,"C7, C12",2.2µF 0603 X5R 10V Ceramic Decoupling Capacitor,Murata
+37,Passives - Resistors,1.2k,R_0603_1608Metric,1,R5,1.2kΩ 0603 ±1% Resistor (TP4056 PROG 1000mA Charge Setting),Yageo
+38,Passives - Resistors,100k_1%,R_0603_1608Metric,2,"R26, R27",100kΩ 0603 ±1% Precision Thin-Film Resistor (Battery Voltage Divider),Yageo
+39,Passives - Resistors,10k,R_0603_1608Metric,8,"R3, R4, R9, R11, R13, R15, R31, R40","10kΩ 0603 ±1% Pull-Up / Pull-Down Resistor (EN, BOOT, Gate)",Yageo
+40,Passives - Resistors,120R,R_0603_1608Metric,2,"R37, R38",120R 0603 ±1% Resistor (LED Limiting / Gate Damping),Yageo
+41,Passives - Resistors,1k,R_0603_1608Metric,5,"R6, R7, R29, R30, R39",1kΩ 0603 ±1% Current Limiting / Gate Resistor,Yageo
+42,Passives - Resistors,330R,R_0603_1608Metric,1,R28,330R 0603 ±1% Resistor (LED Limiting / Gate Damping),Yageo
+43,Passives - Resistors,4.7k,R_0603_1608Metric,2,"R32, R33",4.7kΩ 0603 ±1% Resistor (I2C SDA / SCL Fast-Mode Pull-Up),Yageo
+44,Passives - Resistors,47R,R_0603_1608Metric,4,"R8, R10, R12, R14",47R 0603 ±1% Resistor (LED Limiting / Gate Damping),Yageo
+45,Passives - Resistors,5.1k,R_0603_1608Metric,2,"R1, R2",5.1kΩ 0603 ±1% Resistor (USB Type-C CC1/CC2 Termination),Yageo
+46,Passives - Resistors,56R,R_0603_1608Metric,2,"R35, R36",56R 0603 ±1% Resistor (LED Limiting / Gate Damping),Yageo

@@ -1,0 +1,498 @@
+** Drc report for test_frame.kicad_pcb **
+** Created on 2026-10-02T12:21:38 **
+** Report includes: Errors, Warnings **
+
+** Found 120 DRC violations **
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(113.8122 mm, 180.7238 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(120.1762 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(125.9657 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.3500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 137.2500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(163.8500 mm, 162.7500 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 112.9122 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(181.6238 mm, 187.0877 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(182.5343 mm, 121.7157 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(182.5343 mm, 178.2843 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(187.9878 mm, 119.2762 mm): Circle on Edge.Cuts
+    @(187.9878 mm, 180.7238 mm): Circle on Edge.Cuts
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
