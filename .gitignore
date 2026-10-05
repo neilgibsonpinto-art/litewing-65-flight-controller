@@ -1,9 +1,10 @@
-# KiCad temporary lock and backup files
+# KiCad temporary and backup files
 *.lck
 ~*
 *-bak*
 *.bak
 _autosave-*
+*.kicad_prl
 
 # System & OS files
 Thumbs.db
@@ -18,4 +19,43 @@ __pycache__/
 # Editor history and local backup archives
 .history/
 internship-backups/
+.agents/
 
+# Intermediate and test boards / reports
+test_*.*
+drone_frame_*.*
+drc_*.*
+erc_report.rpt
+internship-erc.rpt
+*.net
+*.sce
+*simulation*.png
+
+# Intermediate build images (assets/images/ contains the final 3D renders)
+battery_circuit_*.png
+esp32_placed_*.png
+sensors_placed_*.png
+staged_*.png
+usb_*.png
+pcb_20x20_*.png
+pcb_arms_*.png
+pcb_black_*.png
+pcb_full_*.png
+pcb_ws2812_*.png
+pcb_top_*.png
+pcb_bottom_*.png
+pcb_iso_*.png
+frame_test.png
+engineered_frame_*.png
+litewing_mount_*.png
+litewing_reference.png
+
+# Old draft BOMs
+BOM_Drone_*.csv
+BOM_Drone_*.md
+BOM_ESP32_*.xlsx
+Complete_Drone_BOM.xlsx
+LiteWing_65_BOM.csv
+
+# Large raw video (GIF in assets/ is tracked instead)
+*.mp4
