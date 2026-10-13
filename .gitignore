@@ -63,3 +63,8 @@ LiteWing_65_BOM.csv
 # Root-level loose images (all production artwork lives in assets/images/)
 /*.png
 /*.gif
+
+# Temporary export directories & caches
+production_gerbers/
+fp-info-cache
+*.tmp
