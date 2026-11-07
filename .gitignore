@@ -68,3 +68,13 @@ LiteWing_65_BOM.csv
 production_gerbers/
 fp-info-cache
 *.tmp
+
+# Local script and preview artifacts
+preview_slides/
+test_segoe/
+export_slides.ps1
+export_file.ps1
+Project_Report_Render.html
+assets/sch_export.svg/
+generate_perfect_human_ppt.py
+generate_swarm_presentation.py

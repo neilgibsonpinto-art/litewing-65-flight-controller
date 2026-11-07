@@ -5,10 +5,10 @@
 	(uuid "736e77bc-d094-4de3-8466-f5f841a81236")
 	(paper "A2")
 	(title_block
-		(title "ESP32-S3 Micro Drone Flight Controller")
+		(title "ESP32-S3 Control & Sensor Board")
 		(date "2026-09-27")
 		(rev "4.1")
-		(company "Custom PCB Drone Project")
+		(company "Custom PCB Project")
 		(comment 1 "Proper Precision-Wired Architecture: 100% Connected Nets & Robust T-Junctions")
 	)
 	(lib_symbols
@@ -6164,7 +6164,7 @@
 		)
 		(uuid "31b364a2-3a0c-447d-806f-0ec48e7b1867")
 	)
-	(text "6. SERIAL PORTS (RC RX & GPS)"
+	(text "6. SERIAL PORTS (UART & GPS)"
 		(exclude_from_sim no)
 		(at 279.57 259.74 0)
 		(effects
@@ -6212,7 +6212,7 @@
 		)
 		(uuid "dade5d04-cbde-47bd-b849-6cfb4ca7bfb1")
 	)
-	(text "9. NIGHT NAVIGATION ARM LIGHTS"
+	(text "9. HIGH-BRIGHTNESS LED ARRAY"
 		(exclude_from_sim no)
 		(at 359.57 287.74 0)
 		(effects
@@ -6224,7 +6224,7 @@
 		)
 		(uuid "ddf4d20c-4d82-4f76-bf19-6e0d537deb7a")
 	)
-	(text "8. FLIGHT INDICATORS & BUZZER"
+	(text "8. STATUS INDICATORS & BUZZER"
 		(exclude_from_sim no)
 		(at 359.57 219.74 0)
 		(effects
